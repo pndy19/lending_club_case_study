@@ -25,8 +25,8 @@ The company can utilise this knowledge for its portfolio and risk assessment.
  
 
 ## Contributors
- -Ashutosh Pandey
- -Rajendra Singh Rao
+ - Ashutosh Pandey
+ - Rajendra Singh Rao
 
 
 ## Technologies Used
