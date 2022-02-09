@@ -22,6 +22,8 @@ Perform an analysis to understand the driving factors (or driver variables)
 behind loan default, i.e.the variables which are strong indicators of default.  
 The company can utilise this knowledge for its portfolio and risk assessment. 
 
+Dataset we used from LendingClub that contains the complete loan data for all loans issued through the time period 2007 t0 2011. 
+
  
 
 ## Contributors
